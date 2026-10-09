@@ -1,6 +1,6 @@
 /* Program (18) -> write a program to accept elements of integer , float and character arrays from the user and display the value and corresponding memory address of each array element
 
-Solution(1) : user define program + using all types of loops + implicit way to write the program 
+Solution(2) : user define program + using all types of loops + implicit way to write the program 
 */
 
 #include <stdio.h>
